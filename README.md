@@ -18,10 +18,16 @@ Bootstrap
 
 ## Results:
 
+![image](https://github.com/NadaAdem/UFOs/blob/main/Resources/screen.png)
 
+
+### Description of how to perform a search
+![image](https://github.com/NadaAdem/UFOs/blob/main/Resources/multiple.png)
 
 
 
 ## Summary
+website is well desgin and easy to use but one drawback of website is  that users would find it easy if there is button that  says "Filter".
+beacuse the current desgin  is hard  to know if table have been updated.
 
 ### Recommendations for Improvement
