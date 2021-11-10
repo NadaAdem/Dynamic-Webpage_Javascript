@@ -21,7 +21,7 @@ Bootstrap
 
 ## Results
 
-### Website 
+### Website with all data 
 ![image](https://github.com/NadaAdem/UFOs/blob/main/Resources/screen.png)
 
 
