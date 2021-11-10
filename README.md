@@ -11,7 +11,7 @@ This webpage is built with JavaScript, HTML, and CSS.
 - Code editor like 
  VS Code
  
-- Other Language and Libraries like 
+- Language and Libraries like 
 HTML
 JavaScript
 D3.js
