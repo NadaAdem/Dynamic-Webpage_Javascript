@@ -35,9 +35,9 @@ If no matches are found, the table will be empty.
 
 ## Summary
 website is well desgin and easy to use but one drawback of website is  that users would find it easy if there is button that  says "Filter".
-beacuse the current desgin  is hard  to know if table have been updated.
+because the current desgin  is hard  to know if table have been updated.
 
 ### Recommendations for Improvement
 -  Minimum row of table by 10 rows and Create button which help  user to scroll to other page , if there are  many data in table  instead of scroll down which is  difficult.
-- Create sorting button for date or cilty by  Ascending/Descending .
+- Create sorting button for date or city by  Ascending/Descending .
 
