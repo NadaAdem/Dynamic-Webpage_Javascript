@@ -26,7 +26,7 @@ Bootstrap
 
 
 ### Description of how to perform a search
-UFO sightings by allowing users to filter for multiple criteria at the same time. Data will be update ,once  type the desired search criteria into the specified search fields 
+UFO sightings by allowing users to filter for multiple criteria at the same time. Data will be update ,once type into the specified search fields 
 If no matches are found, the table will be empty.
 
 ![image](https://github.com/NadaAdem/UFOs/blob/main/Resources/multiple.png)
