@@ -22,12 +22,15 @@ Bootstrap
 ## Results
 
 ### Website with all data 
+
 ![image](https://github.com/NadaAdem/UFOs/blob/main/Resources/screen.png)
 
 
 ### Description of how to perform a search
 UFO sightings by allowing users to filter for multiple criteria at the same time. Data will be update ,once type into the specified search fields 
 If no matches are found, the table will be empty.
+
+This dynamic table is also able to handle multiple search criteria. For example ,type ak for state and light for shape will search for both of them .
 
 ![image](https://github.com/NadaAdem/UFOs/blob/main/Resources/multiple.png)
 
