@@ -4,10 +4,10 @@
 
 ## Software
 
-- A code editor like 
+- Code editor like 
  VS Code
  
-- Other languge and tlanguage and libraries like 
+- Other Language and Libraries like 
 HTML
 JavaScript
 D3.js
