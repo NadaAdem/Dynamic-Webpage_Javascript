@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Design UFO webpage, which has a dynamic table that allow users to filter for multiple input at the same time and connect to data.js . 
+Design UFO webpage, which has a dynamic table that allow users to filter for multiple input at the same time.
 This webpage is built with JavaScript, HTML, and CSS.
 
 ## Software
