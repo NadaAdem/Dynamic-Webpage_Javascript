@@ -38,6 +38,6 @@ website is well desgin and easy to use but one drawback of website is  that user
 beacuse the current desgin  is hard  to know if table have been updated.
 
 ### Recommendations for Improvement
--  Minimum row into table by 10 rows and Create button which help   user to scroll to other page for table result  instead  scroll down which is  difficult if there are  many data in table  .
+-  Minimum row of table by 10 rows and Create button which help  user to scroll to other page , if there are  many data in table  instead of scroll down which is  difficult.
 - Create sorting button for date or cilty by  Ascending/Descending .
 
